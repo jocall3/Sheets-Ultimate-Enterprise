@@ -1,0 +1,8 @@
+{
+  "name": "Sheets Ultimate Enterprise",
+  "description": "A high-performance, collaborative spreadsheet application with advanced formula support, charting, and integrated Gemini AI for data analysis and formula generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
